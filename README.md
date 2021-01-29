@@ -7,7 +7,7 @@ The application was built with:
 * <b>Ktor</b> - Kotlin async web framework
 * <b>Netty</b> - Async web server
 * <b>Exposed</b> - Kotlin SQL framework
-* Implemented pagination in order to prevent loading large data sets and efficiently load and display small chunks of data at a time. Loading partial data on demand reduces usage of network bandwidth and system resources.
+* Implemented <b>pagination</b> in order to prevent loading large data sets and efficiently load and display small chunks of data at a time. Loading partial data on demand reduces usage of network bandwidth and system resources.
 * <b>GSON</b> - serialize and deserialize Java objects to and from JSON.
 * <b>PostgreSQL</b> - is a traditional RDBMS SQL database
 * <b>Authentication JWT</b> - JSON Web Token – to create JSON-based access tokens.
